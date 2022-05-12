@@ -8,4 +8,4 @@ A one-stop donation platform connecting youth donors and NGOs
 - Any operation System (MacOS, Linux, Windows)
 
 ## Screenshots
-![img]https://i.imgur.com/DxrvafS.png[/img]
+![Imgur](https://i.imgur.com/DxrvafS.png)
