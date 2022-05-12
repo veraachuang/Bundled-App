@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008921593532",
+    "firebase_url": "https://bundledapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bundledapp",
+    "storage_bucket": "bundledapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008921593532:android:3a31d57f5b59094efff2b9",
+        "android_client_info": {
+          "package_name": "com.simplyshare.bundledapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008921593532-q2ofcinrleg9704tecet8mftjp9a7eq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAERUpALPSCgex1QTWIGM-lVvWJqxcmdac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008921593532-q2ofcinrleg9704tecet8mftjp9a7eq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008921593532-ua9iua68q76qcjmqorubeqqgufhqvfgl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplyshare.bundledapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
