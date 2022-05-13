@@ -1,10 +1,10 @@
 # Bundled App
 
-A one-stop donation platform connecting youth donors and NGOs
+A one-stop donation platform connecting youth donors and grass-root NGOs, allowing donors to skip the hassle of commute and inconclusive searches
 
 ## Requirements
 
-- Make sure yout Flutter environment is setup
+- Make sure your Flutter environment is setup
 - Any operation System (MacOS, Linux, Windows)
 
 ## Screenshots
