@@ -8,4 +8,4 @@ A one-stop donation platform connecting youth donors and NGOs
 - Any operation System (MacOS, Linux, Windows)
 
 ## Screenshots
-![Imgur](https://imgur.com/dHNTTId)
+![Imgur](https://i.imgur.com/dHNTTId.png)
