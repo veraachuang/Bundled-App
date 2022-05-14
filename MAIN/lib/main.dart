@@ -57,7 +57,7 @@ class BundledApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) => LandingPage(),
+        '/': (context) => NgoHomeScreen(),//LandingPage(),
             //Menu(), //NgoDetails(ngoMock),//NgoHomeScreen(),
         '/landing_page': (context) => LandingPage(),
         '/donor_page': (context) => CreateDonorPage(),
